@@ -1,13 +1,18 @@
 {
+<<<<<<< HEAD
   "dependencies": {
     "express": "^5.2.1",
     "react-router-dom": "^7.18.4"
   },
   "name": "curso-desenvolvimento-web",
+=======
+  "name": "aula-ts",
+>>>>>>> 8d6f6804bfc0960efea6c5e02501788bd6726e20
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -15,4 +20,14 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {}
+=======
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-router-dom": "^7.18.4"
+  }
+>>>>>>> 8d6f6804bfc0960efea6c5e02501788bd6726e20
 }
