@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+node_modules/
+=======
+﻿node_modules/
+dist/
+.env
+*.log
+>>>>>>> 8d6f6804bfc0960efea6c5e02501788bd6726e20
